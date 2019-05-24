@@ -2,29 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ce59f22-27b8-4109-9e64-b5c1f8f8adaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/Hibernate_MVC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/libraries/Maven__org_hibernate_hibernate_core_4_1_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_1_spec_1_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_MVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Hibernate_MVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_4_1_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_1_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/accesoDatos.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alumno.db" beforeDir="false" afterPath="$PROJECT_DIR$/alumno.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD_BBDD_HibernateV1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUD_BBDD_HibernateV1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD_BBDD_HibernateV1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUD_BBDD_HibernateV1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD_BBDD_HibernateV1/alumno.db" beforeDir="false" afterPath="$PROJECT_DIR$/../CRUD_BBDD_HibernateV1/alumno.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CRUD_BBDD_HibernateV2/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../CRUD_BBDD_HibernateV2/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../CRUD_BBDD_HibernateV2/.idea/misc.xml" beforeDir="false" />
@@ -84,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/es/example/jorge/view/MainTest.java" />
         <option value="$PROJECT_DIR$/../../HibernateCRUD/pom.xml" />
         <option value="$PROJECT_DIR$/../../HibernateCRUD/src/test/java/es/example/jorge/model/PersonalDatesUsersTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/es/example/jorge/controller/AlumnoControler.java" />
@@ -92,16 +91,19 @@
         <option value="$PROJECT_DIR$/src/main/java/dialect/SQLiteDialect.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/hibernate/dialect/SQLiteDialect.java" />
         <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/es/example/jorge/model/Alumno.java" />
         <option value="$PROJECT_DIR$/src/main/java/es/example/jorge/utils/HibernateUtil.java" />
-        <option value="$PROJECT_DIR$/src/test/java/es/example/jorge/model/AlumnoTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/es/example/jorge/controller/ControllerAlumnoTest.java" />
         <option value="$PROJECT_DIR$/../README.md" />
-        <option value="$PROJECT_DIR$/src/test/java/es/example/view/MainTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/es/example/jorge/view/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/es/example/jorge/controller/ControllerAlumno.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/es/example/view/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/es/example/jorge/controller/ControllerAlumno.java" />
+        <option value="$PROJECT_DIR$/src/main/java/es/example/jorge/model/Alumno.java" />
+        <option value="$PROJECT_DIR$/src/main/java/es/example/jorge/view/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/example/jorge/model/AlumnoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/example/jorge/view/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/es/example/jorge/jorge/controller/ControllerAlumno.java" />
+        <option value="$PROJECT_DIR$/src/main/java/es/example/jorge/jorge/view/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/example/jorge/controller/ControllerAlumnoTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -125,60 +127,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="CRUD_BBDD_HibernateV1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\jorge\IdeaProjects\accesoDatos\CRUD_BBDD_HibernateV1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="CRUD_BBDD_HibernateV1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\jorge\IdeaProjects\accesoDatos\CRUD_BBDD_HibernateV1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CRUD_BBDD_HibernateV1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\jorge\IdeaProjects\accesoDatos\CRUD_BBDD_HibernateV1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CRUD_BBDD_HibernateV1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\jorge\IdeaProjects\accesoDatos\CRUD_BBDD_HibernateV1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CRUD_BBDD_HibernateV1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\jorge\IdeaProjects\accesoDatos\CRUD_BBDD_HibernateV1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CRUD_BBDD_HibernateV1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\jorge\IdeaProjects\accesoDatos\CRUD_BBDD_HibernateV1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CRUD_BBDD_HibernateV1" type="58d84e3e:PackageViewProjectNode" />
-              <item name="ReaderFileDOM" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,22 +137,26 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CRUD_BBDD_HibernateV1" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="es.example.jorge.controller" />
       <recent name="es.example.jorge.model" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="dialect" />
       <recent name="es.example.jorge.utils" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jorge\IdeaProjects\accesoDatos\CRUD_BBDD_HibernateV2\src\test\java\es\example" />
       <recent name="C:\Users\jorge\IdeaProjects\accesoDatos\CRUD_BBDD_Hibernate\src\test\java\es\example" />
       <recent name="C:\Users\jorge\IdeaProjects\accesoDatos\readerFile_XML_DOM\src\main\resources" />
       <recent name="C:\Users\jorge\IdeaProjects\accesoDatos\readerFile_XML_DOM\src\main\java\es\example\jorge\controller" />
@@ -220,27 +175,9 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="ControllerAlumnoTest.insertAlumno" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
-      <module name="CRUD_BBDD_HibernateV1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="es.example.jorge.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="es.example.jorge.controller" />
-      <option name="MAIN_CLASS_NAME" value="es.example.jorge.controller.ControllerAlumnoTest" />
-      <option name="METHOD_NAME" value="insertAlumno" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_171\jre" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="es.example.jorge.view.Main" />
-      <module name="Hibernate-CRUD" />
+      <module name="Hibernate_MVC" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="es.example.jorge.view.*" />
@@ -251,46 +188,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AlumnoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CRUD_BBDD_HibernateV1" />
+    <configuration name="Main" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_171\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="es.example.jorge.view.Main" />
+      <module name="Hibernate_MVC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="es.example.jorge.model.*" />
+          <option name="PATTERN" value="es.example.jorge.view.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="es.example.jorge.model" />
-      <option name="MAIN_CLASS_NAME" value="es.example.jorge.model.AlumnoTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Hibernate_MVC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hibernate_MVC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hibernate_MVC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.example.jorge.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.example.jorge.view" />
+      <option name="MAIN_CLASS_NAME" value="es.example.jorge.view.MainTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ControllerAlumnoTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CRUD_BBDD_HibernateV1" />
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CRUD_BBDD_Hibernate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="es.example.controller.*" />
+          <option name="PATTERN" value="es.example.jorge.view.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="es.example.controller" />
-      <option name="MAIN_CLASS_NAME" value="es.example.controller.ControllerAlumnoTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ControllerAlumnoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CRUD_BBDD_HibernateV1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="es.example.jorge.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="es.example.jorge.controller" />
-      <option name="MAIN_CLASS_NAME" value="es.example.jorge.controller.ControllerAlumnoTest" />
+      <option name="PACKAGE_NAME" value="es.example.jorge.view" />
+      <option name="MAIN_CLASS_NAME" value="es.example.jorge.view.MainTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -344,19 +289,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Android JUnit.ControllerAlumnoTest.insertAlumno" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.AlumnoTest" />
-      <item itemvalue="JUnit.ControllerAlumnoTest (1)" />
-      <item itemvalue="JUnit.ControllerAlumnoTest" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="JUnit.MainTest" />
+      <item itemvalue="JUnit.MainTest (1)" />
+      <item itemvalue="JUnit.All in Hibernate_MVC" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.ControllerAlumnoTest (1)" />
-        <item itemvalue="JUnit.ControllerAlumnoTest" />
-        <item itemvalue="Android JUnit.ControllerAlumnoTest.insertAlumno" />
-        <item itemvalue="JUnit.AlumnoTest" />
+        <item itemvalue="JUnit.All in Hibernate_MVC" />
+        <item itemvalue="JUnit.MainTest (1)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="JUnit.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -374,41 +319,70 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ControllerAlumnoTest - 2019.04.25 at 19h 58m 15s.xml">
+    <history-entry file="MainTest - 2019.04.25 at 21h 28m 32s.xml">
+      <configuration name="MainTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerAlumnoTest - 2019.04.25 at 21h 30m 35s.xml">
       <configuration name="ControllerAlumnoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ControllerAlumnoTest - 2019.04.25 at 19h 59m 18s.xml">
+    <history-entry file="ControllerAlumnoTest - 2019.04.25 at 21h 31m 13s.xml">
       <configuration name="ControllerAlumnoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ControllerAlumnoTest - 2019.04.25 at 20h 00m 22s.xml">
+    <history-entry file="ControllerAlumnoTest - 2019.04.25 at 21h 31m 42s.xml">
       <configuration name="ControllerAlumnoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ControllerAlumnoTest - 2019.04.25 at 20h 01m 33s.xml">
+    <history-entry file="All_in_ReaderFileDOM_(1) - 2019.04.25 at 21h 32m 07s.xml">
+      <configuration name="All in ReaderFileDOM (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerAlumnoTest - 2019.04.27 at 18h 00m 31s.xml">
       <configuration name="ControllerAlumnoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ControllerAlumnoTest - 2019.04.25 at 20h 01m 53s.xml">
-      <configuration name="ControllerAlumnoTest" configurationId="JUnit" />
+    <history-entry file="All_in_CRUD_BBDD_Hibernate - 2019.04.28 at 11h 02m 57s.xml">
+      <configuration name="All in CRUD_BBDD_Hibernate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ControllerAlumnoTest - 2019.04.25 at 20h 17m 12s.xml">
-      <configuration name="ControllerAlumnoTest" configurationId="JUnit" />
+    <history-entry file="MainTest - 2019.04.28 at 11h 03m 38s.xml">
+      <configuration name="MainTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ControllerAlumnoTest - 2019.04.25 at 20h 17m 57s.xml">
-      <configuration name="ControllerAlumnoTest" configurationId="JUnit" />
+    <history-entry file="MainTest_(1) - 2019.05.24 at 21h 59m 11s.xml">
+      <configuration name="MainTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ControllerAlumnoTest - 2019.04.25 at 20h 54m 17s.xml">
-      <configuration name="ControllerAlumnoTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ControllerAlumnoTest - 2019.04.25 at 20h 54m 41s.xml">
-      <configuration name="ControllerAlumnoTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ControllerAlumnoTest_(1) - 2019.04.25 at 20h 54m 59s.xml">
-      <configuration name="ControllerAlumnoTest (1)" configurationId="JUnit" />
+    <history-entry file="All_in_Hibernate_MVC - 2019.05.24 at 21h 59m 31s.xml">
+      <configuration name="All in Hibernate_MVC" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31240544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31694403" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28971255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -435,7 +409,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32980332" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -462,37 +436,12 @@
     <entry file="file://$PROJECT_DIR$/alumno.db">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/es/example/jorge/utils/HibernateUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/hibernate/dialect/SQLiteDialect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
           <folding>
             <element signature="e#0#6916#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/es/example/jorge/model/AlumnoTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/es/example/jorge/model/Alumno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -504,8 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/es/example/jorge/controller/ControllerAlumnoTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/es/example/jorge/view/MainTest.java" />
     <entry file="file://$PROJECT_DIR$/../README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -513,25 +460,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/es/example/view/MainTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/es/example/controller/ControllerAlumnoTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/es/example/jorge/controller/ControllerAlumno.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/es/example/jorge/utils/HibernateUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="71" column="54" selection-start-line="71" selection-start-column="54" selection-end-line="71" selection-end-column="54" />
+        <state relative-caret-position="119">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/es/example/jorge/model/Alumno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
           <folding>
-            <element signature="e#0#3223#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/example/jorge/model/AlumnoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#4698#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/example/jorge/view/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/example/jorge/controller/ControllerAlumnoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="73" column="16" lean-forward="true" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/es/example/jorge/view/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+        <state relative-caret-position="17">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
-            <element signature="e#0#2417#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/es/example/jorge/controller/ControllerAlumno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -539,21 +541,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        <state relative-caret-position="102">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="Copyright.UI">
         <settings>
           <last-edited>copyright</last-edited>
@@ -566,9 +573,64 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
